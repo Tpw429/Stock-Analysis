@@ -18,6 +18,8 @@ In 2017, eleven of the tweleve major stock types were positive for the year. Bas
 In 2018, only 2 of the tweleve major stock types were positive on the year. In regard to this dataset, if someone held stock during the 2018 year they are likely to have lost money. My run time for the program execution on my computer was XXXX seconds. The findings of my refactoed code for 2018 and the runtime
 for my 2018 code is shown below.
 
+![Refactored Code for 2018 Run Time](Resources/VBA_Challenge_2018.PNG)
+
 ## Summary
 Refactoring code is an extremely important process with an end goal of making code run as fast and efficiently as possible. In general, it is a great technique when used correctly. However, one must be careful in how they refactor a dataset.
 
