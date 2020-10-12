@@ -12,6 +12,8 @@ Using the refactored code, I was able to make the exectuion time decrease. To de
 ### Refactored Code for 2017 Data
 In 2017, eleven of the tweleve major stock types were positive for the year. Based on this data, there is a strong chance that if someone held stock during the 2017 year, they likely made money. My run time for the program execution on my computer was XXXX seconds. The findings of my refactored code for 2017 and runtime for my 2017 code is displayed below.
 
+![Outcomes Based on Date](resources/VBA_Challenge_2017.png)
+
 ### Refactored Code for 2018 Data
 In 2018, only 2 of the tweleve major stock types were positive on the year. In regard to this dataset, if someone held stock during the 2018 year they are likely to have lost money. My run time for the program execution on my computer was XXXX seconds. The findings of my refactoed code for 2018 and the runtime
 for my 2018 code is shown below.
